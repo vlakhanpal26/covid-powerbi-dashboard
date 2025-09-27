@@ -3,12 +3,12 @@
 
 This repository hosts an interactive **Power BI dashboard** analyzing COVID-19 cases, variants, vaccinations, healthcare capacity, and related health impacts.
 
-📄 **PDF Dashboard:** [Download here](FINAL_Coronavirus_Dashboard.pdf)  
+ **PDF Dashboard:** [Download here](covid19-preparedness-dashboard.pdf)  
 🔗 **Live Power BI Report:** <ADD-YOUR-LINK-HERE>
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 Screenshots of selected pages:
 
 - ![Country Overview](assets/page1_overview.png)
@@ -19,7 +19,7 @@ Screenshots of selected pages:
 
 ---
 
-## 🗂 Pages
+##  Pages
 1. **Country COVID-19 Overview**  
 2. **Global COVID-19 Variants Overview**  
 3. **Global COVID-19 Impact & Lifestyle Insights**  
@@ -28,7 +28,7 @@ Screenshots of selected pages:
 
 ---
 
-## 📑 Data Sources
+##  Data Sources
 - World Health Organization (WHO)  
 - Kaggle datasets  
 
